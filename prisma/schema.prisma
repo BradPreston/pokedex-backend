@@ -1,0 +1,21 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("MONGODB_URI")
+}
+
+model pokemon {
+  id             String   @id @default(auto()) @map("_id") @db.ObjectId
+  color          String
+  description    String
+  height         Int
+  name           String
+  pokedex_number Int
+  shape          String
+  sprite         String
+  types          String[]
+  weight         Float
+}

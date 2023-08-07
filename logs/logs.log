@@ -1,0 +1,109 @@
+[pokemon api] [32m[32minfo[32m[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:02:53:253
+[pokemon api] [32m[32minfo[32m[39m: [32mRunning on port 3000[39m - 2023-08-06 21:02:53:253
+[pokemon api] [32m[32minfo[32m[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:03:09:39
+[pokemon api] [32m[32minfo[32m[39m: [32mRunning on port 3000[39m - 2023-08-06 21:03:09:39
+[pokemon api] [32m[32minfo[32m[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:03:13:313
+[pokemon api] [32m[32minfo[32m[39m: [32mRunning on port 3000[39m - 2023-08-06 21:03:13:313
+[pokemon api] [32m[32minfo[32m[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:06:55:655
+[pokemon api] [32m[32minfo[32m[39m: [32mRunning on port 3000[39m - 2023-08-06 21:06:55:655
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:07:56:756
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:07:56:756
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:08:20:820
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:08:20:820
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:08:40:840
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:08:40:840
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:09:11:911
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:09:11:911
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:09:28:928
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:09:28:928
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:10:04:104
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:10:04:104
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:10:36:1036
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:10:36:1036
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:10:51:1051
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:10:51:1051
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:11:23:1123
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:11:23:1123
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:11:41:1141
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:11:41:1141
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:12:05:125
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:12:05:125
+[pokemon api] [32m[32minfo[32m[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:12:41:1241
+[pokemon api] [32m[32minfo[32m[39m: [32mRunning on port 3000[39m - 2023-08-06 21:12:41:1241
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:12:58:1258
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:12:58:1258
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:13:08:138
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:13:08:138
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:13:24:1324
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:13:24:1324
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: '\x1B[32mConnected to MongoDB\x1B[39m',
+  label: 'pokemon api',
+  timestamp: '2023-08-06 21:15:03:153'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: '\x1B[32mRunning on port 3000\x1B[39m',
+  label: 'pokemon api',
+  timestamp: '2023-08-06 21:15:03:153'
+}
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:15:16:1516
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:15:16:1516
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:16:00:160
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:16:00:160
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:16:37:1637
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:16:37:1637
+[pokemon api] [32minfo[39m: [32mConnected to MongoDB[39m - 2023-08-06 21:16:40:1640
+[pokemon api] [32minfo[39m: [32mRunning on port 3000[39m - 2023-08-06 21:16:40:1640
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:16:45:1645
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:16:45:1645
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:17:10:1710
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:17:10:1710
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:19:42:1942
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:19:42:1942
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:20:43:2043
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:20:43:2043
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:22:15:2215
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:22:15:2215
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:23:15:2315
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:23:15:2315
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:23:48:2348
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:23:48:2348
+[pokemon api] http: GET /api/pokemon/1 200 387 - 53.018 ms
+ - 2023-08-06 21:23:50:2350
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:24:56:2456
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:24:56:2456
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:25:15:2515
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:25:15:2515
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:27:01:271
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:27:01:271
+[pokemon api] error: Connected to MongoDB - 2023-08-06 21:27:26:2726
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:27:26:2726
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:28:06:286
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:28:06:286
+[pokemon api] http: GET /api/pokemon/1 200 387 - 52.104 ms
+ - 2023-08-06 21:28:12:2812
+[pokemon api] info: Connected to MongoDB - 2023-08-06 21:31:40:3140
+[pokemon api] info: Running on port 3000 - 2023-08-06 21:31:40:3140
+[pokemon api] http: GET /api/pokemon/25 200 382 - 57.554 ms
+ - 2023-08-06 21:32:37:3237
+[pokemon api] http: GET /api/pokemon/29 200 380 - 49.114 ms
+ - 2023-08-06 21:33:34:3334
+[pokemon api] http: GET /api/pokemon/290 404 52 - 53.899 ms
+ - 2023-08-06 21:33:49:3349
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:07:35:735
+[pokemon api] http: GET /api/pokemon/5 404 204 - 343.723 ms
+ - 2023-08-07 08:07:45:745
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:08:24:824
+[pokemon api] http: GET /api/pokemon/5 200 364 - 625.679 ms
+ - 2023-08-07 08:08:28:828
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:09:15:915
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:09:45:945
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:10:03:103
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:10:18:1018
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:10:53:1053
+[pokemon api] http: GET /api/pokemon/5 200 364 - 667.019 ms
+ - 2023-08-07 08:10:59:1059
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:11:20:1120
+[pokemon api] info: Running on port 3000 - 2023-08-07 08:14:29:1429

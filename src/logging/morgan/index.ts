@@ -2,11 +2,7 @@ import morgan, { StreamOptions } from "morgan";
 import { logger } from "../index";
 
 const stream: StreamOptions = {
-	write: (message) =>
-		logger.log({
-			level: "http",
-			message: message
-		})
+	write: (message) => logger.http(message)
 };
 
 const skip = () => {

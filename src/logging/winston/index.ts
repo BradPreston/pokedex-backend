@@ -56,7 +56,7 @@ export default createLogger({
 			format: format.uncolorize()
 		}),
 		new transports.File({
-			filename: "logs/logs.log",
+			filename: "logs/combined.log",
 			format: format.uncolorize()
 		})
 	]

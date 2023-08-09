@@ -5,5 +5,5 @@ const app = express();
 
 router(app);
 
-logger.info("Running on port 3000");
-app.listen(3000);
+logger.info("Starting server");
+export const server = app;

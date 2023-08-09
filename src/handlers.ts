@@ -26,4 +26,18 @@ export async function getOne(req: Request, res: Response) {
 	}
 }
 
-export function getAll(req: Request, res: Response) {}
+export async function getAll(_req: Request, res: Response) {
+	try {
+		const pokemon = await repo.all();
+		res.status(200);
+		res.json(pokemon);
+	} catch (err: any) {
+		if (err instanceof ReferenceError) {
+			res.status(404);
+			res.json({ error: err.message });
+		} else {
+			res.status(400);
+			res.json({ error: "something went wrong" });
+		}
+	}
+}

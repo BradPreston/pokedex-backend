@@ -2,10 +2,17 @@ import { Request, Response } from "express";
 import { Repo } from "./repositories";
 const repo = new Repo();
 
-export async function getOneById(req: Request, res: Response) {
+export async function getOne(req: Request, res: Response) {
 	try {
-		const id = parseInt(req.params.id);
-		const pokemon = await repo.oneById(id);
+		if (parseInt(req.params.id)) {
+			const id = parseInt(req.params.id);
+			const pokemon = await repo.oneById(id);
+			res.status(200);
+			res.json(pokemon);
+			return;
+		}
+		const name = req.params.id;
+		const pokemon = await repo.oneByName(name);
 		res.status(200);
 		res.json(pokemon);
 	} catch (err: any) {
@@ -18,7 +25,5 @@ export async function getOneById(req: Request, res: Response) {
 		}
 	}
 }
-
-export function getOneByName(req: Request, res: Response) {}
 
 export function getAll(req: Request, res: Response) {}

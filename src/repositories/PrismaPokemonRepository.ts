@@ -19,6 +19,10 @@ export default class PrismaPokemonRepository
 {
 	async all(): Promise<Pokemon[]> {
 		const pokemon: Pokemon[] = await prisma.pokemon.findMany();
+
+		if (pokemon.length == 0) {
+			throw new ReferenceError("No pokemon were found");
+		}
 		return pokemon;
 	}
 
@@ -26,6 +30,11 @@ export default class PrismaPokemonRepository
 		const pokemon: Pokemon = await prisma.pokemon.findFirst({
 			where: { pokedex_number: id }
 		});
+
+		if (!pokemon) {
+			throw new ReferenceError(`Pokemon with id "${id}" was not found`);
+		}
+
 		return pokemon;
 	}
 
@@ -33,6 +42,13 @@ export default class PrismaPokemonRepository
 		const pokemon: Pokemon = await prisma.pokemon.findFirst({
 			where: { name: name }
 		});
+
+		if (!pokemon) {
+			throw new ReferenceError(
+				`Pokemon with name "${name}" was not found`
+			);
+		}
+
 		return pokemon;
 	}
 }
